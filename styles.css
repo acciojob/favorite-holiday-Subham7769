@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 *{
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
 }
 .container{
     display: flex;
